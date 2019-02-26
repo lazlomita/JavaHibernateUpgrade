@@ -1,0 +1,14 @@
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;
+drop table if exists BOOKS;
+create table BOOKS (isbn varchar(255) not null, title varchar(255), author varchar(255), primary key (isbn)) type=MyISAM;

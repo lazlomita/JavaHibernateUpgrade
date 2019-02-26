@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/hibernate-core-4.3.11.Final.jar" sourcepath="C:/Users/lazlo.mita/.m2/repository/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/hibernate-jpa-2.1-api-1.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/hibernate-c3p0-4.3.11.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/mchange-commons-java-0.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/jboss-logging-annotations-1.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_4_3_11/lib/javassist-3.18.2-GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

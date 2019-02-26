@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/hibernate-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/dom4j-2.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/asm-7.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/cglib-3.2.10.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/ehcache-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaHibernateUpgrade/JDK_1_6/Project_Hibernate_3_0_0/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
